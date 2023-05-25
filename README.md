@@ -4,7 +4,7 @@
 
 
 
-![Uploading Screenshot (301).png…] 
+![Screenshot (334)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/946da499-1eef-4662-aa09-bd8d9b88c2d2)
 
 
 ![Screenshot (317)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/06056d6e-3806-409a-95da-a4d47c06783f)   stoock addd
