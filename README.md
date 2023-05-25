@@ -1,12 +1,12 @@
-### Once you click on the desktop icon, the attractive launcher will be rendered, indicating the initialization process for opening the application.
+## Once you click on the desktop icon, the attractive launcher will be rendered, indicating the initialization process for opening the application.
 
 ![Screenshot (300)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/d003fc8f-06bf-427f-a485-b0ef1510c078)
 
-###Then we get a sign-in page where we have to fill out the required information to create a new account.
+## Then we get a sign-in page where we have to fill out the required information to create a new account.
 
 ![Screenshot (334)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/946da499-1eef-4662-aa09-bd8d9b88c2d2)
 
-### Then we get a page of stock add, where we can fill in all the information about our stock, such as product ID, quantity, name, etc. All this information we get in table format on the same page. Also, you can update and delete all the information.
+##  Then we get a page of stock add, where we can fill in all the information about our stock, such as product ID, quantity, name, etc. All this information we get in table format on the same page. Also, you can update and delete all the information.
 
 ![Screenshot (317)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/06056d6e-3806-409a-95da-a4d47c06783f)  
 
