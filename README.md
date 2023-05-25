@@ -15,6 +15,8 @@
 
 ![Screenshot (312)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/f854ae9a-c358-4e7e-982f-d660926a5d58) reordering
 
+![Screenshot (335)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/68d67667-3f56-4bd3-b3fe-f5dfdadfe893)
+
 
 ![Screenshot (313)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/7c523cb3-8ce6-4432-b9ca-cc390b27a719)  stock anlysis by year
 
