@@ -4,7 +4,7 @@
 
 
 
-![Uploading Screenshot (301).png…]()  sign
+![Uploading Screenshot (301).png…] 
 
 
 ![Screenshot (317)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/06056d6e-3806-409a-95da-a4d47c06783f)   stoock addd
