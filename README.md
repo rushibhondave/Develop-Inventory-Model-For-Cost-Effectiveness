@@ -19,8 +19,4 @@
 ![Screenshot (313)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/7c523cb3-8ce6-4432-b9ca-cc390b27a719)  stock anlysis by year
 
 
-
-![Screenshot (313)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/7c523cb3-8ce6-4432-b9ca-cc390b27a719)  stock anlysis by year
-
-
 ![Screenshot (314)](https://github.com/rushibhondave/Develop-Inventory-Model-For-Cost-Effectiveness/assets/100753763/b644cfdf-fb93-4783-96fa-235784f8cfa4)  stock info
